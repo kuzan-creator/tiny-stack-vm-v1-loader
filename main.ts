@@ -1,2 +1,2 @@
-eval(process.env.Z9);
-//kuzan
+eval(process
+.env.J)
